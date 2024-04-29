@@ -94,7 +94,7 @@ while (processKey):
             img.imwrite("encrypted_image.jpg", image)
             img.imshow("Encrypted Image", image)
         else:
-            image = execution(img.imread(image_path), process)
+            image = execution(img.imread(encrypted_path), process)
             # img.imwrite("encrypted_image.jpg", image)
             img.imshow("Decrypted Image", image)
 
