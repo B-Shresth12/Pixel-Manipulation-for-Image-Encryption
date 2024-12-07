@@ -1,21 +1,24 @@
-# PRODIGY_CS_02
-<h2>PRODIGY INFOTECH</h2><br />
-TASK 2: Pixel Manipulation for Image Encryption<br />
+# Pixel Manipulation for Image Encryption 🖼️🔒  
 
-Develop a simple image encryption tool using pixel manipulation. You ccan perform operations like swapping pixel values or applying a basic mathemathical operation to each pixel. Allow users to encrypt and decrypt images<br><br>
-<h3>Observations:</h3>
-<ol>
-  <li>Two stages are included:
-      <ol>
-        <li>Encryption</li>
-        <li>Decryption</li>
-      </ol>
-  </li>
-  <li>Pixel Manipluation by permuting the pixels</li>
-</ol>
-<h3>Outcome:</h3>
-<ul>
-  <li>Learned about the cryptography field</li>
-  <li>Learned how basic encryption and decryption works</li>
-  <li>Learned how a pixel can be manipulated</li>
-</ul>
+Develop a simple image encryption tool using pixel manipulation. You can perform operations like swapping pixel values or applying a basic mathematical operation to each pixel. The tool should allow users to **encrypt** and **decrypt** images.  
+
+---
+
+### 📌 Observations:
+
+1. **Two stages are included:**
+   - 🔐 **Encryption**
+   - 🔓 **Decryption**
+2. **Pixel Manipulation** involves permuting the pixels.
+
+---
+
+### 🎯 Outcome:
+
+- Gained insights into the **cryptography field** 🔑.  
+- Understood the basics of **encryption and decryption** 🔄.  
+- Learned how to manipulate pixels for image processing 🎨🖌️.
+
+---
+
+Let’s dive into creating secure and innovative solutions! 🚀✨
